@@ -34,15 +34,4 @@ Sinta-se à vontade para se conectar comigo através das minhas redes sociais ou
 
 ---
 
-### 📊 GitHub Stats
-
-Abaixo você pode ver um pouco mais sobre o meu nível de atividade e as linguagens que mais utilizo:
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thyagoascorreia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagoascorreia&layout=compact&langs_count=7&theme=dark&hide_title=false"/>
-</div>
-
----
-
 > *"O código limpo sempre parece que foi escrito por alguém que se importa."* - Robert C. Martin (Uncle Bob)
